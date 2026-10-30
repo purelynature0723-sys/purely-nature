@@ -1,2 +1,2 @@
-# purely-nature a
+# purely-nature 
 Purely Nature Photography Website
